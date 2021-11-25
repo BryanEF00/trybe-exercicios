@@ -1,3 +1,4 @@
-.menu-nav {
+.menu-nav li{
     display: inline-block;
+    margin-right: 50px;
 }

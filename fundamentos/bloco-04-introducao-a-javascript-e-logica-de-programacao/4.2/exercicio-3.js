@@ -5,4 +5,6 @@ for (let i = 0; i < numbers.length; i += 1) {
   somaTotal += numbers[i];
 }
 
-console.log(somaTotal);
+let media = (somaTotal / numbers.length)
+
+console.log("Média: " + media);
